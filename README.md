@@ -1,4 +1,6 @@
 # BinaryHeapCPUSchedulerSim
+School Project
+
 Simulates a very crude CPU scheduler using a Binary Heap
 
  This program acts as a simulation of the CPU job scheduler. A list of jobs with the following properties:
