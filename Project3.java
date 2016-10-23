@@ -15,8 +15,6 @@ import java.util.StringTokenizer;
  * Systematically, jobs with the most urgent priority are removed from the priorityQueue and executed.
  * This process repeats until all jobs have been completely processed.
  * 
- * It should be noted that if two jobs have the same priority, and are both waiting to be processed in
- * the priorityQueue, 
  * 
  * @author Steven Wojsnis
  * 			CS313
